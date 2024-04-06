@@ -1,0 +1,1 @@
+{"name":"Local: tree_distance","url":"d:\\Mridul_codes\\vscode-main\\dp_on_tree\\tree_distance.cpp","tests":[{"id":1684319688082,"input":"5\n1 2\n1 3\n3 4\n3 5","output":"2 3 2 3 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Mridul_codes\\vscode-main\\dp_on_tree\\tree_distance.cpp","group":"local","local":true}

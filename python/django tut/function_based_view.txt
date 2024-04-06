@@ -1,0 +1,13 @@
+function based view:takes a Web Request and return a Web Respone(html page,xml,etc.)
+from django.http import HttpResponse
+def func_name(request):
+   return HttpResponse(text)
+
+request-Http request object
+text-Http response object
+HttpResponse-class in django package of http module
+
+url name for this function is defined in urls.py file of the project
+urlpatterns = [
+   path('/url_name',views.func_name)
+]

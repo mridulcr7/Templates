@@ -1,0 +1,1 @@
+{"name":"Local: knapsack_2d_array","url":"d:\\Mridul_codes\\vscode-main\\dp\\knapsack_2d_array.cpp","tests":[{"id":1660481811285,"input":"5 15\n5 60\n2 15\n10 30\n8 80\n6 20\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Mridul_codes\\vscode-main\\dp\\knapsack_2d_array.cpp","group":"local","local":true}

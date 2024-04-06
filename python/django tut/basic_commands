@@ -1,0 +1,15 @@
+pip install django-activate environemnt and then install django on that environemnt.
+
+pip install virtualenvwrapper-win-insatlling virtual env.
+
+mkvirtualenv myproject-make virtual environemnt
+
+django-admin startproject project1-create new project
+
+deactivate-exit virtualenv
+
+workon myproject-go to virtual env or activate
+
+python manage.py startapp app_name-create an app
+
+INSTALLED_APPS =['app_name']-install the app in setting.py

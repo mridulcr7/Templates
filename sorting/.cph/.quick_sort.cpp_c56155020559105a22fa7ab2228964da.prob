@@ -1,0 +1,1 @@
+{"name":"Local: quick_sort","url":"d:\\Mridul_codes\\vscode-main\\sorting\\quick_sort.cpp","tests":[{"id":1664217864682,"input":"7\n7 6 9 3 8 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Mridul_codes\\vscode-main\\sorting\\quick_sort.cpp","group":"local","local":true}

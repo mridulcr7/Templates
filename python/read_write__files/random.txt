@@ -1,0 +1,9 @@
+Sweden-7
+Hungary-6
+Switzerland-5
+Netherland-4
+Spain-3
+Czech Republic-2
+France-2
+Germany-1
+Argentina-1

@@ -1,0 +1,1 @@
+{"name":"Local: prefix_func","url":"d:\\Templates\\kmp\\prefix_func.cpp","tests":[{"id":1707014416598,"input":"ab\nbhbab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Templates\\kmp\\prefix_func.cpp","group":"local","local":true}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>Authentication Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="div_login">
+        <form class="form" id="login">
+            <h1 class="heading1">Login</h1>
+            <div class="form_msg form__msg_error"></div>
+            <div class="form_input">
+                <input type="text" class="input" placeholder="Email or Username">
+                <div class="input_err"></div>
+            </div>
+            <div class="form_input">
+                <input type="password" class="input" placeholder="Password">
+                <div class="input_err"></div>
+            </div>
+            <button class="form__button" type="submit">Submit</button>
+            <p class="for_pass">
+                <a href="#" class="for_link">Forgot your password?</a>
+            </p>
+            <p class="alt">
+                <a class="form__link" href="./" id="linkCreateAccount">Create account</a>
+            </p>
+        </form>
+        <form class="form hide" id="createAccount">
+            <h1 class="heading1">Sign Up</h1>
+            <div class="form_msg form__msg_error"></div>
+            <div class="form_input">
+                <input type="text" class="input" required placeholder="Name">
+                <div class="input_err"></div>
+            </div>
+            <div class="form_input">
+                <input type="text" class="input" required placeholder="Email">
+                <div class="input_err"></div>
+            </div>
+            <div class="form_input">
+                <input type="text" class="input" required placeholder="Username">
+                <div class="input_err"></div>
+            </div>
+            <div class="form_input">
+                <input type="text" class="input" required placeholder="Password" id="password">
+                <div class="input_err"></div>
+            </div>
+            <div class="form_input">
+                <input type="text" class="input" required placeholder="Confirm Password">
+                <div class="input_err"></div>
+            </div>
+            <button class="form__button" type="submit">Submit</button>
+            <p class="alt">
+                <a class="form__link" href="./" id="linkLogin">Sign in</a>
+            </p>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>

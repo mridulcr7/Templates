@@ -1,0 +1,5 @@
+A virtual environment is a Python environment such that the Python interpreter, libraries and scripts installed into it are isolated from those installed in other virtual environments, and (by default) any libraries installed in a “system” Python, i.e., one which is installed as part of your operating system.
+
+A Django app is a small library representing a discrete part of a larger project. For example, our blog web application might have an app for posts, one for static pages like an About page called pages, and another app called payments to charge logged-in subscribers.
+
+

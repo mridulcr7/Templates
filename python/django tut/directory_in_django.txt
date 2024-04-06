@@ -1,0 +1,21 @@
+project1-root directory
+   project1-python package
+        __init__.py
+        asgi.py
+        setting.py
+        urls.py
+        wsgi.py
+
+   manage.py   
+
+__init__.py-
+
+
+wsgi.py-(Web Server Gateway Interface)-Interface b/w Server and Web Application 
+        how a web server communicates with application,and how web application communicates
+        together to process one request
+
+asgi.py-(Asynchronous Server Gateway Interface)-successor of wsgi
+        both Syncrohnous and Asynchronous apps while wsgi for only Syncrohnous apps
+
+urls.py-information about urls attached with application        

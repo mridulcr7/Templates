@@ -1,0 +1,1 @@
+{"name":"Local: expiernce","url":"d:\\Mridul_codes\\vscode-main\\graph\\dsu\\expiernce.cpp","tests":[{"id":1682316323643,"input":"3 6\nadd 1 100\njoin 1 3\nadd 1 50\nget 1\nget 2\nget 3","output":"150\n0\n50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Mridul_codes\\vscode-main\\graph\\dsu\\expiernce.cpp","group":"local","local":true}

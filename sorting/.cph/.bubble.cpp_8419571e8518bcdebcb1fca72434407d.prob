@@ -1,0 +1,1 @@
+{"name":"Local: bubble","url":"d:\\Mridul_codes\\vscode-main\\sorting\\bubble.cpp","tests":[{"id":1663702708042,"input":"7\n1 2 4 5 6 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Mridul_codes\\vscode-main\\sorting\\bubble.cpp","group":"local","local":true}

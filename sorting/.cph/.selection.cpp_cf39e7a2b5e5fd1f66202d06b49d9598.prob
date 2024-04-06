@@ -1,0 +1,1 @@
+{"name":"Local: selection","url":"d:\\Mridul_codes\\vscode-main\\sorting\\selection.cpp","tests":[{"id":1663701310091,"input":"6\n2 4 1 6 3 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Mridul_codes\\vscode-main\\sorting\\selection.cpp","group":"local","local":true}

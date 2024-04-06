@@ -1,0 +1,1 @@
+{"name":"Local: prefix_func","url":"d:\\Mridul_codes\\vscode-main\\kmp\\prefix_func.cpp","tests":[{"id":1673280432143,"input":"bab\nababaaca","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Mridul_codes\\vscode-main\\kmp\\prefix_func.cpp","group":"local","local":true}

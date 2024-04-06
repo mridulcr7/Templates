@@ -1,0 +1,1 @@
+{"name":"Local: numberofways","url":"d:\\Mridul_codes\\vscode-main\\graph\\topological_sort\\numberofways.cpp","tests":[{"id":1683202100552,"input":"4 5\n1 2\n2 4\n1 3\n3 4\n1 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Mridul_codes\\vscode-main\\graph\\topological_sort\\numberofways.cpp","group":"local","local":true}

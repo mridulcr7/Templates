@@ -1,0 +1,17 @@
+.static {
+    width: 1200px;
+    height: 400px;
+    background-color: #3d405b;
+    border: 2px solid black;
+    margin-left: 50px;
+}
+
+.middle{
+    width: 250px;
+    height: 250px;
+    background-color: azure;
+    margin-top: 75px;
+    margin-left: 500px;
+}
+
+
